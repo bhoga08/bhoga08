@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhoga08
 - 👀 I’m interested in ... cyber security
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... python and javascript
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... insta bhogal_08
 - 😄 Pronouns: ...
